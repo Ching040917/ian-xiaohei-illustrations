@@ -7,7 +7,7 @@
 
 ## Drip GitHub Mascot Assets
 
-Need ready-to-copy copy for a slime mascot IP? Use [drip-github-assets.md](drip-github-assets.md).
+Need ready-to-copy content for a slime mascot IP? Use [drip-github-assets.md](drip-github-assets.md).
 
 Tagline: **Looks tired, thinks fast.**
 
